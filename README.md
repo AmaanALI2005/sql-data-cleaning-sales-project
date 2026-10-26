@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/data_cleaning.png" width="600" alt="SQL Data Cleaning Project">
+</p>
+
+
 # 🧹 SQL Data Cleaning Project: E-commerce Sales
 
 A step-by-step data cleaning project in **SQL Server (SSMS)**. I took a messy sales dataset of 1,004 rows and turned it into a clean, analysis-ready table of 1,000 rows.
